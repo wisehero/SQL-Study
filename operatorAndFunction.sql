@@ -2044,13 +2044,6 @@ INSERT INTO subway_statistics values(2033,'미아사거리(416)','2017-04-03','�
 INSERT INTO subway_statistics values(2034,'미아사거리(416)','2017-04-03','하차',9,1469);
 INSERT INTO subway_statistics values(2035,'길음(417)','2017-04-01','승차',9,1941);
 INSERT INTO subway_statistics values(2036,'길음(417)','2017-04-01','하차',9,885);
-INSERT INTO subway_statistics values(2037,'길음(417)','2017-04-02','승차',9,1320);
-INSERT INTO subway_statistics values(2038,'길음(417)','2017-04-02','하차',9,738);
-INSERT INTO subway_statistics values(2039,'길음(417)','2017-04-03','승차',9,2512);
-INSERT INTO subway_statistics values(2040,'길음(417)','2017-04-03','하차',9,1633);
-INSERT INTO subway_statistics values(2041,'성신여대입구(418)','2017-04-01','승차',9,1568);
-INSERT INTO subway_statistics values(2042,'성신여대입구(418)','2017-04-01','하차',9,1072);
-INSERT INTO subway_statistics values(2043,'성신여대입구(418)','2017-04-02','승차',9,1080);
 INSERT INTO subway_statistics values(2044,'성신여대입구(418)','2017-04-02','하차',9,714);
 INSERT INTO subway_statistics values(2045,'성신여대입구(418)','2017-04-03','승차',9,1880);
 INSERT INTO subway_statistics values(2046,'성신여대입구(418)','2017-04-03','하차',9,1405);
@@ -2150,7 +2143,14 @@ INSERT INTO subway_statistics values(2139,'남태령(434)','2017-04-02','승차'
 INSERT INTO subway_statistics values(2140,'남태령(434)','2017-04-02','하차',9,67);
 INSERT INTO subway_statistics values(2141,'남태령(434)','2017-04-03','승차',9,233);
 INSERT INTO subway_statistics values(2142,'남태령(434)','2017-04-03','하차',9,32);
-COMMIT;
+COMMIT;INSERT INTO subway_statistics values(2037,'길음(417)','2017-04-02','승차',9,1320);
+INSERT INTO subway_statistics values(2038,'길음(417)','2017-04-02','하차',9,738);
+INSERT INTO subway_statistics values(2039,'길음(417)','2017-04-03','승차',9,2512);
+INSERT INTO subway_statistics values(2040,'길음(417)','2017-04-03','하차',9,1633);
+INSERT INTO subway_statistics values(2041,'성신여대입구(418)','2017-04-01','승차',9,1568);
+INSERT INTO subway_statistics values(2042,'성신여대입구(418)','2017-04-01','하차',9,1072);
+INSERT INTO subway_statistics values(2043,'성신여대입구(418)','2017-04-02','승차',9,1080);
+
 
 
 -- 문자열 결합 연산자 사용
